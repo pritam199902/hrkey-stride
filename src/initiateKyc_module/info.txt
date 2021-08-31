@@ -1,0 +1,48 @@
+page 1
+    rif id
+    legal entity name
+    country
+
+    next | prev (btn)
+
+
+page 2
+    ent info dlock
+        ref id
+        legal name
+        country
+
+    bvd search
+        BVD id
+
+    LEI search req section
+        auto fetch btn
+        lei code
+        company id
+    
+    Orbis search req
+        o search with LEI code
+        o search with BVD id 
+        o none
+    
+        check btn
+
+        next | prev (btn)
+
+page 3
+    ent info dlock
+        ref id
+        legal name
+        country
+        LEI code
+        company id
+        BVD id
+
+    choose your source and module
+        CPS
+        POE
+        POL
+        POR
+
+
+        initiate KYC btn

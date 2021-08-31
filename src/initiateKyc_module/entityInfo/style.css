@@ -1,0 +1,31 @@
+.entity-info-container{
+    /* background-color: aqua; */
+
+}
+
+/* .ent-info-title{
+    font-size: 18px;
+} */
+
+.form{
+    /* background-color: aqua; */
+    margin: auto;
+    width: 40%;
+    display: 'flex';
+    flex-flow: 'column wrap';
+
+}
+
+.input-section{
+    /* background-color: rgb(35, 65, 236); */
+
+    min-width: fit-content;
+    margin: 25px 5px;
+}
+
+.btn-section{
+    /* background-color: aqua; */
+    margin: 55px 5px;
+    display: flex;
+    flex-direction: column;
+}
